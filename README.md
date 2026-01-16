@@ -239,7 +239,7 @@ curl -X POST http://localhost:3001/api/recommend \
   }'
 ```
 
-## 🎓 Resume-Worthy Highlights
+## 🎓 Highlights
 
 - **Hybrid Architecture**: Python ML + Node.js API + React UI
 - **Real ML Pipeline**: Feature engineering, clustering, similarity scoring
@@ -267,3 +267,4 @@ curl -X POST http://localhost:3001/api/recommend \
 ---
 
 Built with ❤️ for production ML systems
+

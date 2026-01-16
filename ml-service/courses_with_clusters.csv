@@ -1,0 +1,950 @@
+course_title,course_organization,course_Certificate_type,course_rating,course_difficulty,course_students_enrolled,enrollment_numeric,difficulty_encoded,cluster
+Machine Learning,Stanford University,Professional Certificate,4.9,Advanced,2.5M,2500000.0,3,3
+Python for Everybody,University of Michigan,Specialization,4.8,Beginner,3.2M,3200000.0,1,3
+Deep Learning,deeplearning.ai,Specialization,4.7,Advanced,1.8M,1800000.0,3,3
+Data Science,Johns Hopkins University,Specialization,4.6,Intermediate,2.1M,2100000.0,2,3
+Web Development,University of California,Specialization,4.5,Beginner,1.9M,1900000.0,1,3
+Blockchain Basics,University at Buffalo,Professional Certificate,4.4,Intermediate,850K,850000.0,2,2
+Cloud Computing,AWS,Professional Certificate,4.8,Intermediate,1.2M,1200000.0,2,3
+Cybersecurity,IBM,Professional Certificate,4.7,Intermediate,1.5M,1500000.0,2,3
+Artificial Intelligence,Stanford University,Specialization,4.9,Advanced,2.3M,2300000.0,3,3
+Natural Language Processing,deeplearning.ai,Specialization,4.6,Advanced,1.1M,1100000.0,3,1
+Introduction to Data Science,IBM,Professional Certificate,4.5,Beginner,1.8M,1800000.0,1,3
+Full Stack Web Development,University of California,Specialization,4.7,Intermediate,2.0M,2000000.0,2,3
+React Development,Meta,Professional Certificate,4.6,Intermediate,1.4M,1400000.0,2,3
+Java Programming,Duke University,Specialization,4.5,Beginner,1.6M,1600000.0,1,3
+C++ Programming,University of California,Specialization,4.4,Intermediate,1.2M,1200000.0,2,3
+Database Systems,Stanford University,Specialization,4.8,Intermediate,1.7M,1700000.0,2,3
+Computer Networks,University of Washington,Specialization,4.6,Intermediate,1.3M,1300000.0,2,3
+Operating Systems,Georgia Institute of Technology,Specialization,4.5,Advanced,950K,950000.0,3,1
+Software Engineering,University of Alberta,Specialization,4.7,Intermediate,1.5M,1500000.0,2,3
+Mobile App Development,University of London,Specialization,4.6,Intermediate,1.1M,1100000.0,2,3
+Game Development,University of Colorado,Specialization,4.4,Beginner,800K,800000.0,1,2
+UI/UX Design,California Institute of the Arts,Specialization,4.5,Beginner,1.2M,1200000.0,1,3
+Digital Marketing,University of Illinois,Specialization,4.6,Intermediate,1.4M,1400000.0,2,3
+Project Management,Google,Professional Certificate,4.7,Beginner,1.6M,1600000.0,1,3
+Business Analytics,University of Pennsylvania,Specialization,4.8,Intermediate,1.3M,1300000.0,2,3
+Financial Markets,Yale University,Specialization,4.9,Intermediate,1.8M,1800000.0,2,3
+Entrepreneurship,University of Pennsylvania,Specialization,4.6,Intermediate,1.0M,1000000.0,2,2
+Leadership,University of Michigan,Specialization,4.7,Intermediate,1.2M,1200000.0,2,3
+Public Speaking,University of Washington,Specialization,4.5,Beginner,950K,950000.0,1,2
+Creative Writing,Wesleyan University,Specialization,4.4,Beginner,750K,750000.0,1,2
+Machine Learning Engineering,DeepLearning.AI,Professional Certificate,4.8,Advanced,1.5M,1500000.0,3,1
+TensorFlow Developer,DeepLearning.AI,Professional Certificate,4.7,Advanced,1.2M,1200000.0,3,1
+Generative AI,DeepLearning.AI,Specialization,4.9,Advanced,2.1M,2100000.0,3,3
+Computer Vision,University at Buffalo,Specialization,4.6,Advanced,1.0M,1000000.0,3,1
+Reinforcement Learning,University of Alberta,Specialization,4.7,Advanced,850K,850000.0,3,1
+Statistics with R,Duke University,Specialization,4.5,Intermediate,1.4M,1400000.0,2,3
+Data Analysis with Python,IBM,Professional Certificate,4.6,Intermediate,1.6M,1600000.0,2,3
+SQL for Data Science,University of California,Specialization,4.7,Intermediate,1.8M,1800000.0,2,3
+Big Data,University of California,Specialization,4.5,Advanced,1.2M,1200000.0,3,1
+Hadoop and Spark,IBM,Professional Certificate,4.6,Advanced,1.0M,1000000.0,3,1
+Kubernetes,Linux Foundation,Professional Certificate,4.8,Advanced,950K,950000.0,3,1
+Docker,Linux Foundation,Professional Certificate,4.7,Intermediate,1.1M,1100000.0,2,3
+DevOps,Google,Professional Certificate,4.8,Intermediate,1.4M,1400000.0,2,3
+Git and GitHub,Atlassian,Specialization,4.5,Beginner,1.2M,1200000.0,1,3
+Linux Command Line,The Linux Foundation,Specialization,4.6,Intermediate,1.0M,1000000.0,2,2
+AWS Cloud Practitioner,Amazon Web Services,Professional Certificate,4.7,Beginner,1.5M,1500000.0,1,3
+Azure Fundamentals,Microsoft,Professional Certificate,4.6,Beginner,1.3M,1300000.0,1,3
+Google Cloud Platform,Google,Professional Certificate,4.8,Intermediate,1.2M,1200000.0,2,3
+Ethical Hacking,IBM,Professional Certificate,4.7,Advanced,1.1M,1100000.0,3,1
+Network Security,Cisco,Professional Certificate,4.6,Intermediate,1.0M,1000000.0,2,2
+Cryptography,Stanford University,Specialization,4.8,Advanced,850K,850000.0,3,1
+iOS Development,University of Toronto,Specialization,4.7,Intermediate,1.2M,1200000.0,2,3
+Android Development,Google,Specialization,4.6,Intermediate,1.3M,1300000.0,2,3
+Flutter Development,Google,Specialization,4.5,Intermediate,1.0M,1000000.0,2,2
+Swift Programming,University of Toronto,Specialization,4.6,Intermediate,950K,950000.0,2,2
+Kotlin for Android,Google,Specialization,4.5,Intermediate,1.1M,1100000.0,2,2
+Unity Game Development,University of Colorado,Specialization,4.4,Intermediate,900K,900000.0,2,2
+Unreal Engine,Epic Games,Specialization,4.5,Advanced,750K,750000.0,3,1
+3D Graphics,University of London,Specialization,4.3,Advanced,700K,700000.0,3,1
+Digital Photography,New York University,Specialization,4.4,Beginner,800K,800000.0,1,2
+Video Production,California Institute of the Arts,Specialization,4.5,Intermediate,750K,750000.0,2,2
+Music Production,Berklee College of Music,Specialization,4.6,Intermediate,850K,850000.0,2,2
+Graphic Design,California Institute of the Arts,Specialization,4.7,Beginner,1.1M,1100000.0,1,3
+Illustration,California Institute of the Arts,Specialization,4.5,Intermediate,900K,900000.0,2,2
+Animation,California Institute of the Arts,Specialization,4.6,Intermediate,950K,950000.0,2,2
+User Research,University of Minnesota,Specialization,4.5,Intermediate,800K,800000.0,2,2
+Interaction Design,University of California,Specialization,4.6,Intermediate,1.0M,1000000.0,2,2
+Prototyping,California Institute of the Arts,Specialization,4.4,Beginner,750K,750000.0,1,2
+Data Visualization,Johns Hopkins University,Specialization,4.7,Intermediate,1.2M,1200000.0,2,3
+Tableau,University of California,Specialization,4.6,Intermediate,1.1M,1100000.0,2,2
+Power BI,Microsoft,Professional Certificate,4.5,Intermediate,1.0M,1000000.0,2,2
+Excel for Data Analysis,Macquarie University,Specialization,4.4,Beginner,1.3M,1300000.0,1,3
+R Programming,Johns Hopkins University,Specialization,4.6,Intermediate,1.4M,1400000.0,2,3
+Python Data Structures,University of Michigan,Specialization,4.7,Intermediate,1.5M,1500000.0,2,3
+Algorithms,Stanford University,Specialization,4.9,Advanced,2.0M,2000000.0,3,3
+Data Structures,University of California,Specialization,4.8,Intermediate,1.8M,1800000.0,2,3
+System Design,University of California,Specialization,4.7,Advanced,1.2M,1200000.0,3,1
+Distributed Systems,University of Illinois,Specialization,4.6,Advanced,1.0M,1000000.0,3,1
+Microservices,University of Alberta,Specialization,4.5,Intermediate,1.1M,1100000.0,2,2
+API Design,Google,Specialization,4.6,Intermediate,1.0M,1000000.0,2,2
+RESTful Web Services,University of California,Specialization,4.5,Intermediate,950K,950000.0,2,2
+GraphQL,Meta,Specialization,4.4,Intermediate,850K,850000.0,2,2
+Node.js Development,University of California,Specialization,4.7,Intermediate,1.3M,1300000.0,2,3
+Express.js,University of California,Specialization,4.6,Intermediate,1.2M,1200000.0,2,3
+MongoDB,University of California,Specialization,4.5,Intermediate,1.1M,1100000.0,2,2
+PostgreSQL,University of Michigan,Specialization,4.7,Intermediate,1.0M,1000000.0,2,2
+Redis,Redis University,Specialization,4.6,Intermediate,900K,900000.0,2,2
+Elasticsearch,Elastic,Professional Certificate,4.5,Advanced,850K,850000.0,3,1
+Apache Kafka,Confluent,Professional Certificate,4.6,Advanced,800K,800000.0,3,1
+Apache Spark,University of California,Specialization,4.7,Advanced,1.0M,1000000.0,3,1
+Data Engineering,IBM,Professional Certificate,4.8,Advanced,1.2M,1200000.0,3,1
+ETL Processes,University of Colorado,Specialization,4.5,Intermediate,950K,950000.0,2,2
+Data Warehousing,University of Colorado,Specialization,4.6,Intermediate,1.0M,1000000.0,2,2
+Business Intelligence,University of Colorado,Specialization,4.7,Intermediate,1.1M,1100000.0,2,3
+Supply Chain Analytics,Rutgers University,Specialization,4.5,Intermediate,900K,900000.0,2,2
+Marketing Analytics,University of Virginia,Specialization,4.6,Intermediate,1.0M,1000000.0,2,2
+Customer Analytics,University of Pennsylvania,Specialization,4.7,Intermediate,950K,950000.0,2,2
+HR Analytics,Rutgers University,Specialization,4.4,Intermediate,800K,800000.0,2,2
+Operations Research,Georgia Institute of Technology,Specialization,4.6,Advanced,850K,850000.0,3,1
+Optimization,Stanford University,Specialization,4.8,Advanced,900K,900000.0,3,1
+Linear Algebra,MIT,Specialization,4.7,Intermediate,1.1M,1100000.0,2,3
+Calculus,University of Pennsylvania,Specialization,4.6,Intermediate,1.0M,1000000.0,2,2
+Probability,Stanford University,Specialization,4.8,Intermediate,1.2M,1200000.0,2,3
+Statistics,Stanford University,Specialization,4.9,Intermediate,1.5M,1500000.0,2,3
+Econometrics,University of London,Specialization,4.5,Advanced,850K,850000.0,3,1
+Time Series Analysis,University of California,Specialization,4.6,Advanced,900K,900000.0,3,1
+Experimental Design,University of California,Specialization,4.5,Intermediate,800K,800000.0,2,2
+A/B Testing,Google,Specialization,4.7,Intermediate,1.0M,1000000.0,2,2
+Causal Inference,University of Pennsylvania,Specialization,4.6,Advanced,750K,750000.0,3,1
+Bayesian Statistics,University of California,Specialization,4.7,Advanced,850K,850000.0,3,1
+Monte Carlo Methods,Columbia University,Specialization,4.5,Advanced,800K,800000.0,3,1
+Stochastic Processes,Columbia University,Specialization,4.6,Advanced,750K,750000.0,3,1
+Financial Engineering,Columbia University,Specialization,4.8,Advanced,900K,900000.0,3,1
+Risk Management,New York University,Specialization,4.7,Intermediate,950K,950000.0,2,2
+Portfolio Management,University of Geneva,Specialization,4.6,Intermediate,1.0M,1000000.0,2,2
+Corporate Finance,University of Pennsylvania,Specialization,4.8,Intermediate,1.2M,1200000.0,2,3
+Investment Management,University of Geneva,Specialization,4.9,Intermediate,1.3M,1300000.0,2,3
+Banking and Finance,University of Illinois,Specialization,4.5,Intermediate,1.1M,1100000.0,2,2
+Accounting,University of Illinois,Specialization,4.6,Beginner,1.4M,1400000.0,1,3
+Taxation,University of Illinois,Specialization,4.4,Intermediate,900K,900000.0,2,2
+Auditing,University of Illinois,Specialization,4.5,Intermediate,850K,850000.0,2,2
+Management Accounting,University of Illinois,Specialization,4.6,Intermediate,950K,950000.0,2,2
+Cost Accounting,University of Illinois,Specialization,4.4,Intermediate,800K,800000.0,2,2
+Financial Accounting,University of Illinois,Specialization,4.7,Beginner,1.2M,1200000.0,1,3
+Managerial Economics,University of Illinois,Specialization,4.5,Intermediate,1.0M,1000000.0,2,2
+Microeconomics,University of Illinois,Specialization,4.6,Intermediate,1.1M,1100000.0,2,2
+Macroeconomics,University of Illinois,Specialization,4.7,Intermediate,1.2M,1200000.0,2,3
+International Economics,University of Geneva,Specialization,4.5,Intermediate,900K,900000.0,2,2
+Development Economics,University of London,Specialization,4.4,Intermediate,850K,850000.0,2,2
+Behavioral Economics,University of Toronto,Specialization,4.6,Intermediate,950K,950000.0,2,2
+Game Theory,Stanford University,Specialization,4.8,Advanced,1.0M,1000000.0,3,1
+Negotiation,University of Michigan,Specialization,4.7,Intermediate,1.1M,1100000.0,2,3
+Conflict Resolution,University of California,Specialization,4.5,Intermediate,900K,900000.0,2,2
+Organizational Behavior,University of Pennsylvania,Specialization,4.6,Intermediate,1.0M,1000000.0,2,2
+Human Resource Management,University of Minnesota,Specialization,4.5,Intermediate,950K,950000.0,2,2
+Talent Management,University of Michigan,Specialization,4.4,Intermediate,850K,850000.0,2,2
+Compensation and Benefits,University of Minnesota,Specialization,4.5,Intermediate,800K,800000.0,2,2
+Employee Relations,University of Minnesota,Specialization,4.4,Intermediate,750K,750000.0,2,2
+Labor Relations,University of Minnesota,Specialization,4.3,Intermediate,700K,700000.0,2,2
+Strategic Management,University of Virginia,Specialization,4.7,Intermediate,1.1M,1100000.0,2,3
+Operations Management,University of Pennsylvania,Specialization,4.6,Intermediate,1.0M,1000000.0,2,2
+Supply Chain Management,Rutgers University,Specialization,4.8,Intermediate,1.2M,1200000.0,2,3
+Logistics,Rutgers University,Specialization,4.5,Intermediate,950K,950000.0,2,2
+Procurement,Rutgers University,Specialization,4.4,Intermediate,850K,850000.0,2,2
+Inventory Management,Rutgers University,Specialization,4.5,Intermediate,900K,900000.0,2,2
+Quality Management,University of Georgia,Specialization,4.6,Intermediate,950K,950000.0,2,2
+Six Sigma,University System of Georgia,Specialization,4.7,Intermediate,1.0M,1000000.0,2,2
+Lean Manufacturing,University System of Georgia,Specialization,4.5,Intermediate,900K,900000.0,2,2
+Process Improvement,University System of Georgia,Specialization,4.6,Intermediate,950K,950000.0,2,2
+Change Management,Macquarie University,Specialization,4.5,Intermediate,900K,900000.0,2,2
+Innovation Management,University of Pennsylvania,Specialization,4.7,Intermediate,1.0M,1000000.0,2,2
+Entrepreneurship Strategy,University of Virginia,Specialization,4.6,Intermediate,950K,950000.0,2,2
+Startup Finance,University of Maryland,Specialization,4.5,Intermediate,850K,850000.0,2,2
+Venture Capital,University of Pennsylvania,Specialization,4.6,Advanced,900K,900000.0,3,1
+Private Equity,University of Pennsylvania,Specialization,4.5,Advanced,850K,850000.0,3,1
+Mergers and Acquisitions,University of Pennsylvania,Specialization,4.7,Advanced,950K,950000.0,3,1
+Corporate Strategy,University of Virginia,Specialization,4.8,Intermediate,1.0M,1000000.0,2,2
+Competitive Strategy,University of Virginia,Specialization,4.9,Intermediate,1.1M,1100000.0,2,3
+Business Model Innovation,University of Virginia,Specialization,4.6,Intermediate,950K,950000.0,2,2
+Digital Transformation,University of Virginia,Specialization,4.7,Intermediate,1.0M,1000000.0,2,2
+Platform Strategy,University of Virginia,Specialization,4.5,Advanced,900K,900000.0,3,1
+Network Effects,University of Virginia,Specialization,4.4,Advanced,850K,850000.0,3,1
+Ecosystem Strategy,University of Virginia,Specialization,4.6,Advanced,900K,900000.0,3,1
+Alliance Management,University of Virginia,Specialization,4.5,Intermediate,850K,850000.0,2,2
+Joint Ventures,University of Virginia,Specialization,4.4,Intermediate,800K,800000.0,2,2
+Strategic Partnerships,University of Virginia,Specialization,4.6,Intermediate,900K,900000.0,2,2
+Channel Strategy,University of Virginia,Specialization,4.5,Intermediate,850K,850000.0,2,2
+Pricing Strategy,University of Virginia,Specialization,4.7,Intermediate,950K,950000.0,2,2
+Revenue Management,University of Virginia,Specialization,4.6,Intermediate,900K,900000.0,2,2
+Customer Lifetime Value,University of Pennsylvania,Specialization,4.5,Intermediate,850K,850000.0,2,2
+Customer Segmentation,University of Pennsylvania,Specialization,4.7,Intermediate,950K,950000.0,2,2
+Market Research,University of California,Specialization,4.6,Intermediate,1.0M,1000000.0,2,2
+Consumer Behavior,University of Pennsylvania,Specialization,4.8,Intermediate,1.1M,1100000.0,2,3
+Brand Management,University of Pennsylvania,Specialization,4.7,Intermediate,1.0M,1000000.0,2,2
+Product Management,University of Virginia,Specialization,4.8,Intermediate,1.2M,1200000.0,2,3
+Agile Product Management,University of Virginia,Specialization,4.7,Intermediate,1.1M,1100000.0,2,3
+Scrum Master,University of California,Specialization,4.6,Intermediate,1.0M,1000000.0,2,2
+Product Marketing,University of Virginia,Specialization,4.5,Intermediate,950K,950000.0,2,2
+Go-to-Market Strategy,University of Virginia,Specialization,4.6,Intermediate,1.0M,1000000.0,2,2
+Growth Hacking,University of Virginia,Specialization,4.5,Intermediate,900K,900000.0,2,2
+Content Marketing,University of California,Specialization,4.7,Intermediate,1.0M,1000000.0,2,2
+Social Media Marketing,Northwestern University,Specialization,4.6,Intermediate,1.1M,1100000.0,2,2
+Email Marketing,University of California,Specialization,4.5,Intermediate,950K,950000.0,2,2
+Search Engine Optimization,University of California,Specialization,4.7,Intermediate,1.0M,1000000.0,2,2
+Search Engine Marketing,University of California,Specialization,4.6,Intermediate,950K,950000.0,2,2
+Pay-Per-Click Advertising,University of California,Specialization,4.5,Intermediate,900K,900000.0,2,2
+Display Advertising,University of California,Specialization,4.4,Intermediate,850K,850000.0,2,2
+Video Marketing,University of California,Specialization,4.6,Intermediate,950K,950000.0,2,2
+Influencer Marketing,Northwestern University,Specialization,4.5,Intermediate,900K,900000.0,2,2
+Affiliate Marketing,University of California,Specialization,4.4,Intermediate,850K,850000.0,2,2
+Mobile Marketing,University of California,Specialization,4.6,Intermediate,950K,950000.0,2,2
+Marketing Automation,University of California,Specialization,4.5,Intermediate,900K,900000.0,2,2
+Customer Relationship Management,University of California,Specialization,4.7,Intermediate,1.0M,1000000.0,2,2
+Sales Management,University of California,Specialization,4.6,Intermediate,950K,950000.0,2,2
+Sales Strategy,University of California,Specialization,4.5,Intermediate,900K,900000.0,2,2
+Negotiation Skills,University of Michigan,Specialization,4.7,Intermediate,1.0M,1000000.0,2,2
+Persuasion,University of Michigan,Specialization,4.6,Intermediate,950K,950000.0,2,2
+Public Relations,Northwestern University,Specialization,4.5,Intermediate,900K,900000.0,2,2
+Crisis Communication,Northwestern University,Specialization,4.4,Intermediate,850K,850000.0,2,2
+Corporate Communication,Northwestern University,Specialization,4.6,Intermediate,950K,950000.0,2,2
+Internal Communication,Northwestern University,Specialization,4.5,Intermediate,900K,900000.0,2,2
+Stakeholder Management,University of California,Specialization,4.7,Intermediate,1.0M,1000000.0,2,2
+Investor Relations,University of California,Specialization,4.6,Intermediate,950K,950000.0,2,2
+Media Relations,Northwestern University,Specialization,4.5,Intermediate,900K,900000.0,2,2
+Event Management,Northwestern University,Specialization,4.4,Intermediate,850K,850000.0,2,2
+Trade Show Management,Northwestern University,Specialization,4.3,Intermediate,800K,800000.0,2,2
+Exhibition Management,Northwestern University,Specialization,4.4,Intermediate,850K,850000.0,2,2
+Sponsorship Management,Northwestern University,Specialization,4.5,Intermediate,900K,900000.0,2,2
+Partnership Development,University of Virginia,Specialization,4.6,Intermediate,950K,950000.0,2,2
+Channel Development,University of Virginia,Specialization,4.5,Intermediate,900K,900000.0,2,2
+Distribution Strategy,University of Virginia,Specialization,4.7,Intermediate,1.0M,1000000.0,2,2
+Retail Management,University of Pennsylvania,Specialization,4.6,Intermediate,950K,950000.0,2,2
+E-commerce,University of Pennsylvania,Specialization,4.8,Intermediate,1.1M,1100000.0,2,3
+Online Retail,University of Pennsylvania,Specialization,4.7,Intermediate,1.0M,1000000.0,2,2
+Marketplace Strategy,University of Pennsylvania,Specialization,4.6,Intermediate,950K,950000.0,2,2
+Dropshipping,University of Pennsylvania,Specialization,4.4,Intermediate,850K,850000.0,2,2
+Fulfillment Operations,University of Pennsylvania,Specialization,4.5,Intermediate,900K,900000.0,2,2
+Last-Mile Delivery,University of Pennsylvania,Specialization,4.6,Intermediate,950K,950000.0,2,2
+Warehouse Management,University of Pennsylvania,Specialization,4.5,Intermediate,900K,900000.0,2,2
+Inventory Optimization,University of Pennsylvania,Specialization,4.7,Intermediate,1.0M,1000000.0,2,2
+Demand Forecasting,University of Pennsylvania,Specialization,4.6,Intermediate,950K,950000.0,2,2
+Supply Planning,University of Pennsylvania,Specialization,4.5,Intermediate,900K,900000.0,2,2
+Production Planning,University of Pennsylvania,Specialization,4.6,Intermediate,950K,950000.0,2,2
+Capacity Planning,University of Pennsylvania,Specialization,4.5,Intermediate,900K,900000.0,2,2
+Resource Planning,University of Pennsylvania,Specialization,4.4,Intermediate,850K,850000.0,2,2
+Workforce Planning,University of Pennsylvania,Specialization,4.6,Intermediate,950K,950000.0,2,2
+Talent Acquisition,University of Minnesota,Specialization,4.7,Intermediate,1.0M,1000000.0,2,2
+Recruitment,University of Minnesota,Specialization,4.6,Intermediate,950K,950000.0,2,2
+Talent Sourcing,University of Minnesota,Specialization,4.5,Intermediate,900K,900000.0,2,2
+Candidate Assessment,University of Minnesota,Specialization,4.4,Intermediate,850K,850000.0,2,2
+Interviewing Skills,University of Minnesota,Specialization,4.6,Intermediate,950K,950000.0,2,2
+Onboarding,University of Minnesota,Specialization,4.5,Intermediate,900K,900000.0,2,2
+Employee Engagement,University of Minnesota,Specialization,4.7,Intermediate,1.0M,1000000.0,2,2
+Performance Management,University of Minnesota,Specialization,4.8,Intermediate,1.1M,1100000.0,2,3
+Goal Setting,University of Minnesota,Specialization,4.6,Intermediate,950K,950000.0,2,2
+Feedback and Coaching,University of Minnesota,Specialization,4.7,Intermediate,1.0M,1000000.0,2,2
+360-Degree Feedback,University of Minnesota,Specialization,4.5,Intermediate,900K,900000.0,2,2
+Performance Reviews,University of Minnesota,Specialization,4.6,Intermediate,950K,950000.0,2,2
+Career Development,University of Minnesota,Specialization,4.7,Intermediate,1.0M,1000000.0,2,2
+Succession Planning,University of Minnesota,Specialization,4.5,Intermediate,900K,900000.0,2,2
+Leadership Development,University of Michigan,Specialization,4.8,Intermediate,1.1M,1100000.0,2,3
+Executive Coaching,University of California,Specialization,4.6,Intermediate,950K,950000.0,2,2
+Mentoring,University of California,Specialization,4.5,Intermediate,900K,900000.0,2,2
+Team Building,University of California,Specialization,4.7,Intermediate,1.0M,1000000.0,2,2
+Team Management,University of California,Specialization,4.6,Intermediate,950K,950000.0,2,2
+Virtual Teams,University of California,Specialization,4.5,Intermediate,900K,900000.0,2,2
+Cross-Cultural Management,University of California,Specialization,4.6,Intermediate,950K,950000.0,2,2
+Global Leadership,University of California,Specialization,4.7,Intermediate,1.0M,1000000.0,2,2
+International Business,University of London,Specialization,4.8,Intermediate,1.1M,1100000.0,2,3
+Cross-Cultural Communication,University of California,Specialization,4.6,Intermediate,950K,950000.0,2,2
+Cultural Intelligence,University of California,Specialization,4.5,Intermediate,900K,900000.0,2,2
+Diversity and Inclusion,University of California,Specialization,4.7,Intermediate,1.0M,1000000.0,2,2
+Unconscious Bias,University of California,Specialization,4.6,Intermediate,950K,950000.0,2,2
+Inclusive Leadership,University of California,Specialization,4.7,Intermediate,1.0M,1000000.0,2,2
+Equity and Access,University of California,Specialization,4.5,Intermediate,900K,900000.0,2,2
+Social Justice,University of California,Specialization,4.4,Intermediate,850K,850000.0,2,2
+Corporate Social Responsibility,University of Pennsylvania,Specialization,4.6,Intermediate,950K,950000.0,2,2
+Sustainability,University of Pennsylvania,Specialization,4.7,Intermediate,1.0M,1000000.0,2,2
+Environmental Management,University of Pennsylvania,Specialization,4.5,Intermediate,900K,900000.0,2,2
+Green Business,University of Pennsylvania,Specialization,4.6,Intermediate,950K,950000.0,2,2
+Circular Economy,University of Pennsylvania,Specialization,4.4,Advanced,850K,850000.0,3,1
+Sustainable Supply Chains,University of Pennsylvania,Specialization,4.5,Intermediate,900K,900000.0,2,2
+Carbon Footprint Reduction,University of Pennsylvania,Specialization,4.6,Intermediate,950K,950000.0,2,2
+Renewable Energy,University of Pennsylvania,Specialization,4.7,Intermediate,1.0M,1000000.0,2,2
+Energy Efficiency,University of Pennsylvania,Specialization,4.5,Intermediate,900K,900000.0,2,2
+Water Management,University of Pennsylvania,Specialization,4.4,Intermediate,850K,850000.0,2,2
+Waste Management,University of Pennsylvania,Specialization,4.5,Intermediate,900K,900000.0,2,2
+Life Cycle Assessment,University of Pennsylvania,Specialization,4.6,Advanced,950K,950000.0,3,1
+Environmental Impact Assessment,University of Pennsylvania,Specialization,4.5,Advanced,900K,900000.0,3,1
+Regulatory Compliance,University of Pennsylvania,Specialization,4.7,Intermediate,1.0M,1000000.0,2,2
+Environmental Law,University of Pennsylvania,Specialization,4.6,Advanced,950K,950000.0,3,1
+Health and Safety,University of Pennsylvania,Specialization,4.8,Intermediate,1.1M,1100000.0,2,3
+Occupational Safety,University of Pennsylvania,Specialization,4.7,Intermediate,1.0M,1000000.0,2,2
+Workplace Safety,University of Pennsylvania,Specialization,4.6,Intermediate,950K,950000.0,2,2
+Risk Assessment,University of Pennsylvania,Specialization,4.7,Intermediate,1.0M,1000000.0,2,2
+Emergency Management,University of Pennsylvania,Specialization,4.5,Intermediate,900K,900000.0,2,2
+Disaster Recovery,University of Pennsylvania,Specialization,4.6,Intermediate,950K,950000.0,2,2
+Business Continuity,University of Pennsylvania,Specialization,4.7,Intermediate,1.0M,1000000.0,2,2
+Crisis Management,Northwestern University,Specialization,4.8,Intermediate,1.1M,1100000.0,2,3
+Reputation Management,Northwestern University,Specialization,4.7,Intermediate,1.0M,1000000.0,2,2
+Brand Protection,University of Pennsylvania,Specialization,4.6,Intermediate,950K,950000.0,2,2
+Intellectual Property,University of Pennsylvania,Specialization,4.8,Advanced,1.0M,1000000.0,3,1
+Patent Law,University of Pennsylvania,Specialization,4.7,Advanced,950K,950000.0,3,1
+Trademark Law,University of Pennsylvania,Specialization,4.6,Advanced,900K,900000.0,3,1
+Copyright Law,University of Pennsylvania,Specialization,4.5,Advanced,850K,850000.0,3,1
+Trade Secrets,University of Pennsylvania,Specialization,4.4,Advanced,800K,800000.0,3,1
+Licensing,University of Pennsylvania,Specialization,4.6,Intermediate,950K,950000.0,2,2
+Franchising,University of Pennsylvania,Specialization,4.5,Intermediate,900K,900000.0,2,2
+Contract Management,University of Pennsylvania,Specialization,4.7,Intermediate,1.0M,1000000.0,2,2
+Legal Negotiation,University of Pennsylvania,Specialization,4.6,Advanced,950K,950000.0,3,1
+Dispute Resolution,University of Pennsylvania,Specialization,4.5,Intermediate,900K,900000.0,2,2
+Arbitration,University of Pennsylvania,Specialization,4.4,Intermediate,850K,850000.0,2,2
+Mediation,University of Pennsylvania,Specialization,4.6,Intermediate,950K,950000.0,2,2
+Litigation,University of Pennsylvania,Specialization,4.5,Advanced,900K,900000.0,3,1
+Corporate Law,University of Pennsylvania,Specialization,4.7,Advanced,1.0M,1000000.0,3,1
+Securities Law,University of Pennsylvania,Specialization,4.6,Advanced,950K,950000.0,3,1
+Antitrust Law,University of Pennsylvania,Specialization,4.5,Advanced,900K,900000.0,3,1
+Employment Law,University of Pennsylvania,Specialization,4.7,Intermediate,1.0M,1000000.0,2,2
+Labor Law,University of Minnesota,Specialization,4.6,Intermediate,950K,950000.0,2,2
+Workers Compensation,University of Minnesota,Specialization,4.5,Intermediate,900K,900000.0,2,2
+Benefits Administration,University of Minnesota,Specialization,4.6,Intermediate,950K,950000.0,2,2
+Pension Management,University of Minnesota,Specialization,4.5,Intermediate,900K,900000.0,2,2
+Retirement Planning,University of Minnesota,Specialization,4.7,Intermediate,1.0M,1000000.0,2,2
+401(k) Administration,University of Minnesota,Specialization,4.6,Intermediate,950K,950000.0,2,2
+Health Insurance,University of Minnesota,Specialization,4.5,Intermediate,900K,900000.0,2,2
+Wellness Programs,University of Minnesota,Specialization,4.6,Intermediate,950K,950000.0,2,2
+Employee Assistance Programs,University of Minnesota,Specialization,4.5,Intermediate,900K,900000.0,2,2
+Work-Life Balance,University of Minnesota,Specialization,4.7,Intermediate,1.0M,1000000.0,2,2
+Flexible Work Arrangements,University of Minnesota,Specialization,4.6,Intermediate,950K,950000.0,2,2
+Remote Work Management,University of California,Specialization,4.8,Intermediate,1.1M,1100000.0,2,3
+Virtual Collaboration,University of California,Specialization,4.7,Intermediate,1.0M,1000000.0,2,2
+Digital Workplace,University of California,Specialization,4.6,Intermediate,950K,950000.0,2,2
+Collaboration Tools,University of California,Specialization,4.7,Intermediate,1.0M,1000000.0,2,2
+Project Collaboration,University of California,Specialization,4.6,Intermediate,950K,950000.0,2,2
+Knowledge Management,University of California,Specialization,4.7,Intermediate,1.0M,1000000.0,2,2
+Document Management,University of California,Specialization,4.5,Intermediate,900K,900000.0,2,2
+Content Management,University of California,Specialization,4.6,Intermediate,950K,950000.0,2,2
+Information Architecture,University of California,Specialization,4.5,Intermediate,900K,900000.0,2,2
+Taxonomy Design,University of California,Specialization,4.4,Intermediate,850K,850000.0,2,2
+Metadata Management,University of California,Specialization,4.5,Intermediate,900K,900000.0,2,2
+Data Governance,University of California,Specialization,4.7,Intermediate,1.0M,1000000.0,2,2
+Data Quality,University of California,Specialization,4.6,Intermediate,950K,950000.0,2,2
+Data Stewardship,University of California,Specialization,4.5,Intermediate,900K,900000.0,2,2
+Master Data Management,University of California,Specialization,4.6,Intermediate,950K,950000.0,2,2
+Reference Data Management,University of California,Specialization,4.5,Intermediate,900K,900000.0,2,2
+Data Lineage,University of California,Specialization,4.4,Advanced,850K,850000.0,3,1
+Data Cataloging,University of California,Specialization,4.5,Intermediate,900K,900000.0,2,2
+Data Discovery,University of California,Specialization,4.6,Intermediate,950K,950000.0,2,2
+Data Profiling,University of California,Specialization,4.5,Intermediate,900K,900000.0,2,2
+Data Cleansing,University of California,Specialization,4.7,Intermediate,1.0M,1000000.0,2,2
+Data Integration,University of California,Specialization,4.8,Intermediate,1.1M,1100000.0,2,3
+Data Transformation,University of California,Specialization,4.7,Intermediate,1.0M,1000000.0,2,2
+Data Migration,University of California,Specialization,4.6,Intermediate,950K,950000.0,2,2
+Data Archiving,University of California,Specialization,4.5,Intermediate,900K,900000.0,2,2
+Data Retention,University of California,Specialization,4.6,Intermediate,950K,950000.0,2,2
+Data Deletion,University of California,Specialization,4.5,Intermediate,900K,900000.0,2,2
+Data Backup,University of California,Specialization,4.7,Intermediate,1.0M,1000000.0,2,2
+Data Recovery,University of California,Specialization,4.6,Intermediate,950K,950000.0,2,2
+Disaster Recovery Planning,University of Pennsylvania,Specialization,4.7,Intermediate,1.0M,1000000.0,2,2
+Business Impact Analysis,University of Pennsylvania,Specialization,4.6,Intermediate,950K,950000.0,2,2
+Risk Analysis,University of Pennsylvania,Specialization,4.7,Intermediate,1.0M,1000000.0,2,2
+Threat Assessment,University of Pennsylvania,Specialization,4.6,Intermediate,950K,950000.0,2,2
+Vulnerability Assessment,University of Pennsylvania,Specialization,4.5,Advanced,900K,900000.0,3,1
+Penetration Testing,IBM,Professional Certificate,4.7,Advanced,950K,950000.0,3,1
+Security Auditing,IBM,Professional Certificate,4.6,Intermediate,900K,900000.0,2,2
+Compliance Auditing,University of Pennsylvania,Specialization,4.7,Intermediate,1.0M,1000000.0,2,2
+Internal Auditing,University of Illinois,Specialization,4.6,Intermediate,950K,950000.0,2,2
+External Auditing,University of Illinois,Specialization,4.7,Intermediate,1.0M,1000000.0,2,2
+Financial Auditing,University of Illinois,Specialization,4.8,Intermediate,1.1M,1100000.0,2,3
+Operational Auditing,University of Illinois,Specialization,4.6,Intermediate,950K,950000.0,2,2
+IT Auditing,University of Illinois,Specialization,4.7,Advanced,1.0M,1000000.0,3,1
+Forensic Accounting,University of Illinois,Specialization,4.6,Advanced,950K,950000.0,3,1
+Fraud Detection,University of Illinois,Specialization,4.7,Advanced,1.0M,1000000.0,3,1
+Anti-Money Laundering,University of Illinois,Specialization,4.5,Advanced,900K,900000.0,3,1
+Know Your Customer,University of Illinois,Specialization,4.6,Intermediate,950K,950000.0,2,2
+Customer Due Diligence,University of Illinois,Specialization,4.5,Intermediate,900K,900000.0,2,2
+Enhanced Due Diligence,University of Illinois,Specialization,4.4,Advanced,850K,850000.0,3,1
+Sanctions Screening,University of Illinois,Specialization,4.5,Advanced,900K,900000.0,3,1
+Transaction Monitoring,University of Illinois,Specialization,4.6,Advanced,950K,950000.0,3,1
+Suspicious Activity Reporting,University of Illinois,Specialization,4.5,Advanced,900K,900000.0,3,1
+Compliance Monitoring,University of Pennsylvania,Specialization,4.7,Intermediate,1.0M,1000000.0,2,2
+Regulatory Reporting,University of Pennsylvania,Specialization,4.6,Intermediate,950K,950000.0,2,2
+Risk Reporting,University of Pennsylvania,Specialization,4.7,Intermediate,1.0M,1000000.0,2,2
+Management Reporting,University of Pennsylvania,Specialization,4.8,Intermediate,1.1M,1100000.0,2,3
+Financial Reporting,University of Illinois,Specialization,4.9,Intermediate,1.3M,1300000.0,2,3
+Consolidated Reporting,University of Illinois,Specialization,4.7,Intermediate,1.0M,1000000.0,2,2
+Segment Reporting,University of Illinois,Specialization,4.6,Intermediate,950K,950000.0,2,2
+Interim Reporting,University of Illinois,Specialization,4.5,Intermediate,900K,900000.0,2,2
+Annual Reporting,University of Illinois,Specialization,4.7,Intermediate,1.0M,1000000.0,2,2
+Quarterly Reporting,University of Illinois,Specialization,4.6,Intermediate,950K,950000.0,2,2
+Monthly Reporting,University of Illinois,Specialization,4.5,Intermediate,900K,900000.0,2,2
+Weekly Reporting,University of Illinois,Specialization,4.4,Intermediate,850K,850000.0,2,2
+Daily Reporting,University of Illinois,Specialization,4.3,Intermediate,800K,800000.0,2,2
+Real-Time Reporting,University of Illinois,Specialization,4.5,Intermediate,900K,900000.0,2,2
+Dashboard Design,Johns Hopkins University,Specialization,4.7,Intermediate,1.0M,1000000.0,2,2
+KPI Development,University of Pennsylvania,Specialization,4.6,Intermediate,950K,950000.0,2,2
+Metric Definition,University of Pennsylvania,Specialization,4.7,Intermediate,1.0M,1000000.0,2,2
+Performance Metrics,University of Pennsylvania,Specialization,4.8,Intermediate,1.1M,1100000.0,2,3
+Business Metrics,University of Pennsylvania,Specialization,4.7,Intermediate,1.0M,1000000.0,2,2
+Operational Metrics,University of Pennsylvania,Specialization,4.6,Intermediate,950K,950000.0,2,2
+Financial Metrics,University of Pennsylvania,Specialization,4.8,Intermediate,1.1M,1100000.0,2,3
+Customer Metrics,University of Pennsylvania,Specialization,4.7,Intermediate,1.0M,1000000.0,2,2
+Employee Metrics,University of Minnesota,Specialization,4.6,Intermediate,950K,950000.0,2,2
+Product Metrics,University of Virginia,Specialization,4.7,Intermediate,1.0M,1000000.0,2,2
+Marketing Metrics,University of Virginia,Specialization,4.8,Intermediate,1.1M,1100000.0,2,3
+Sales Metrics,University of California,Specialization,4.7,Intermediate,1.0M,1000000.0,2,2
+Revenue Metrics,University of California,Specialization,4.8,Intermediate,1.1M,1100000.0,2,3
+Profitability Metrics,University of California,Specialization,4.7,Intermediate,1.0M,1000000.0,2,2
+Efficiency Metrics,University of California,Specialization,4.6,Intermediate,950K,950000.0,2,2
+Productivity Metrics,University of California,Specialization,4.7,Intermediate,1.0M,1000000.0,2,2
+Quality Metrics,University of Georgia,Specialization,4.6,Intermediate,950K,950000.0,2,2
+Customer Satisfaction,University of Pennsylvania,Specialization,4.8,Intermediate,1.1M,1100000.0,2,3
+Net Promoter Score,University of Pennsylvania,Specialization,4.7,Intermediate,1.0M,1000000.0,2,2
+Customer Effort Score,University of Pennsylvania,Specialization,4.6,Intermediate,950K,950000.0,2,2
+Customer Retention,University of Pennsylvania,Specialization,4.8,Intermediate,1.1M,1100000.0,2,3
+Customer Churn,University of Pennsylvania,Specialization,4.7,Intermediate,1.0M,1000000.0,2,2
+Customer Acquisition Cost,University of Pennsylvania,Specialization,4.8,Intermediate,1.1M,1100000.0,2,3
+Customer Lifetime Value,University of Pennsylvania,Specialization,4.9,Intermediate,1.2M,1200000.0,2,3
+Lifetime Value to CAC Ratio,University of Pennsylvania,Specialization,4.7,Intermediate,1.0M,1000000.0,2,2
+Average Revenue Per User,University of Pennsylvania,Specialization,4.8,Intermediate,1.1M,1100000.0,2,3
+Monthly Recurring Revenue,University of Pennsylvania,Specialization,4.9,Intermediate,1.2M,1200000.0,2,3
+Annual Recurring Revenue,University of Pennsylvania,Specialization,4.8,Intermediate,1.1M,1100000.0,2,3
+Revenue Growth Rate,University of Pennsylvania,Specialization,4.9,Intermediate,1.2M,1200000.0,2,3
+Revenue Run Rate,University of Pennsylvania,Specialization,4.7,Intermediate,1.0M,1000000.0,2,2
+Bookings,University of Pennsylvania,Specialization,4.6,Intermediate,950K,950000.0,2,2
+Billings,University of Pennsylvania,Specialization,4.7,Intermediate,1.0M,1000000.0,2,2
+Deferred Revenue,University of Pennsylvania,Specialization,4.5,Intermediate,900K,900000.0,2,2
+Unearned Revenue,University of Illinois,Specialization,4.6,Intermediate,950K,950000.0,2,2
+Revenue Recognition,University of Illinois,Specialization,4.8,Intermediate,1.1M,1100000.0,2,3
+ASC 606,University of Illinois,Specialization,4.7,Advanced,1.0M,1000000.0,3,1
+IFRS 15,University of Illinois,Specialization,4.6,Advanced,950K,950000.0,3,1
+Revenue Accounting,University of Illinois,Specialization,4.8,Intermediate,1.1M,1100000.0,2,3
+Contract Accounting,University of Illinois,Specialization,4.7,Intermediate,1.0M,1000000.0,2,2
+Percentage of Completion,University of Illinois,Specialization,4.6,Intermediate,950K,950000.0,2,2
+Completed Contract,University of Illinois,Specialization,4.5,Intermediate,900K,900000.0,2,2
+Cost Accounting Methods,University of Illinois,Specialization,4.7,Intermediate,1.0M,1000000.0,2,2
+Job Costing,University of Illinois,Specialization,4.6,Intermediate,950K,950000.0,2,2
+Process Costing,University of Illinois,Specialization,4.5,Intermediate,900K,900000.0,2,2
+Activity-Based Costing,University of Illinois,Specialization,4.7,Intermediate,1.0M,1000000.0,2,2
+Standard Costing,University of Illinois,Specialization,4.6,Intermediate,950K,950000.0,2,2
+Variable Costing,University of Illinois,Specialization,4.5,Intermediate,900K,900000.0,2,2
+Absorption Costing,University of Illinois,Specialization,4.6,Intermediate,950K,950000.0,2,2
+Marginal Costing,University of Illinois,Specialization,4.5,Intermediate,900K,900000.0,2,2
+Break-Even Analysis,University of Illinois,Specialization,4.7,Intermediate,1.0M,1000000.0,2,2
+Cost-Volume-Profit Analysis,University of Illinois,Specialization,4.8,Intermediate,1.1M,1100000.0,2,3
+Contribution Margin,University of Illinois,Specialization,4.7,Intermediate,1.0M,1000000.0,2,2
+Operating Leverage,University of Illinois,Specialization,4.6,Intermediate,950K,950000.0,2,2
+Financial Leverage,University of Illinois,Specialization,4.7,Intermediate,1.0M,1000000.0,2,2
+Capital Structure,University of Illinois,Specialization,4.8,Intermediate,1.1M,1100000.0,2,3
+Cost of Capital,University of Illinois,Specialization,4.9,Intermediate,1.2M,1200000.0,2,3
+Weighted Average Cost of Capital,University of Illinois,Specialization,4.8,Advanced,1.1M,1100000.0,3,1
+Cost of Equity,University of Illinois,Specialization,4.7,Advanced,1.0M,1000000.0,3,1
+Cost of Debt,University of Illinois,Specialization,4.6,Intermediate,950K,950000.0,2,2
+Dividend Policy,University of Illinois,Specialization,4.7,Intermediate,1.0M,1000000.0,2,2
+Share Buybacks,University of Illinois,Specialization,4.6,Intermediate,950K,950000.0,2,2
+Stock Splits,University of Illinois,Specialization,4.5,Intermediate,900K,900000.0,2,2
+Stock Dividends,University of Illinois,Specialization,4.4,Intermediate,850K,850000.0,2,2
+Cash Dividends,University of Illinois,Specialization,4.6,Intermediate,950K,950000.0,2,2
+Dividend Yield,University of Illinois,Specialization,4.5,Intermediate,900K,900000.0,2,2
+Dividend Payout Ratio,University of Illinois,Specialization,4.6,Intermediate,950K,950000.0,2,2
+Retention Ratio,University of Illinois,Specialization,4.5,Intermediate,900K,900000.0,2,2
+Earnings Per Share,University of Illinois,Specialization,4.8,Intermediate,1.1M,1100000.0,2,3
+Price-to-Earnings Ratio,University of Illinois,Specialization,4.7,Intermediate,1.0M,1000000.0,2,2
+Price-to-Book Ratio,University of Illinois,Specialization,4.6,Intermediate,950K,950000.0,2,2
+Price-to-Sales Ratio,University of Illinois,Specialization,4.5,Intermediate,900K,900000.0,2,2
+Enterprise Value,University of Illinois,Specialization,4.7,Intermediate,1.0M,1000000.0,2,2
+EV to EBITDA,University of Illinois,Specialization,4.6,Intermediate,950K,950000.0,2,2
+EV to Revenue,University of Illinois,Specialization,4.5,Intermediate,900K,900000.0,2,2
+Free Cash Flow,University of Illinois,Specialization,4.8,Intermediate,1.1M,1100000.0,2,3
+Operating Cash Flow,University of Illinois,Specialization,4.9,Intermediate,1.2M,1200000.0,2,3
+Investing Cash Flow,University of Illinois,Specialization,4.7,Intermediate,1.0M,1000000.0,2,2
+Financing Cash Flow,University of Illinois,Specialization,4.6,Intermediate,950K,950000.0,2,2
+Cash Flow Statement,University of Illinois,Specialization,4.8,Intermediate,1.1M,1100000.0,2,3
+Statement of Cash Flows,University of Illinois,Specialization,4.9,Intermediate,1.2M,1200000.0,2,3
+Direct Method,University of Illinois,Specialization,4.7,Intermediate,1.0M,1000000.0,2,2
+Indirect Method,University of Illinois,Specialization,4.8,Intermediate,1.1M,1100000.0,2,3
+Cash Flow Analysis,University of Illinois,Specialization,4.9,Intermediate,1.2M,1200000.0,2,3
+Liquidity Analysis,University of Illinois,Specialization,4.8,Intermediate,1.1M,1100000.0,2,3
+Solvency Analysis,University of Illinois,Specialization,4.7,Intermediate,1.0M,1000000.0,2,2
+Profitability Analysis,University of Illinois,Specialization,4.9,Intermediate,1.2M,1200000.0,2,3
+Efficiency Analysis,University of Illinois,Specialization,4.7,Intermediate,1.0M,1000000.0,2,2
+Activity Ratios,University of Illinois,Specialization,4.6,Intermediate,950K,950000.0,2,2
+Turnover Ratios,University of Illinois,Specialization,4.7,Intermediate,1.0M,1000000.0,2,2
+Asset Turnover,University of Illinois,Specialization,4.8,Intermediate,1.1M,1100000.0,2,3
+Inventory Turnover,University of Illinois,Specialization,4.7,Intermediate,1.0M,1000000.0,2,2
+Receivables Turnover,University of Illinois,Specialization,4.8,Intermediate,1.1M,1100000.0,2,3
+Payables Turnover,University of Illinois,Specialization,4.6,Intermediate,950K,950000.0,2,2
+Days Sales Outstanding,University of Illinois,Specialization,4.7,Intermediate,1.0M,1000000.0,2,2
+Days Inventory Outstanding,University of Illinois,Specialization,4.6,Intermediate,950K,950000.0,2,2
+Days Payable Outstanding,University of Illinois,Specialization,4.5,Intermediate,900K,900000.0,2,2
+Cash Conversion Cycle,University of Illinois,Specialization,4.7,Intermediate,1.0M,1000000.0,2,2
+Working Capital,University of Illinois,Specialization,4.8,Intermediate,1.1M,1100000.0,2,3
+Current Ratio,University of Illinois,Specialization,4.9,Intermediate,1.2M,1200000.0,2,3
+Quick Ratio,University of Illinois,Specialization,4.8,Intermediate,1.1M,1100000.0,2,3
+Cash Ratio,University of Illinois,Specialization,4.7,Intermediate,1.0M,1000000.0,2,2
+Debt-to-Equity Ratio,University of Illinois,Specialization,4.8,Intermediate,1.1M,1100000.0,2,3
+Debt-to-Assets Ratio,University of Illinois,Specialization,4.7,Intermediate,1.0M,1000000.0,2,2
+Interest Coverage Ratio,University of Illinois,Specialization,4.8,Intermediate,1.1M,1100000.0,2,3
+Times Interest Earned,University of Illinois,Specialization,4.7,Intermediate,1.0M,1000000.0,2,2
+Fixed Charge Coverage,University of Illinois,Specialization,4.6,Intermediate,950K,950000.0,2,2
+Debt Service Coverage,University of Illinois,Specialization,4.7,Intermediate,1.0M,1000000.0,2,2
+Return on Assets,University of Illinois,Specialization,4.9,Intermediate,1.2M,1200000.0,2,3
+Return on Equity,University of Illinois,Specialization,4.9,Intermediate,1.2M,1200000.0,2,3
+Return on Investment,University of Illinois,Specialization,4.8,Intermediate,1.1M,1100000.0,2,3
+Return on Capital Employed,University of Illinois,Specialization,4.7,Intermediate,1.0M,1000000.0,2,2
+Return on Sales,University of Illinois,Specialization,4.8,Intermediate,1.1M,1100000.0,2,3
+Net Profit Margin,University of Illinois,Specialization,4.9,Intermediate,1.2M,1200000.0,2,3
+Gross Profit Margin,University of Illinois,Specialization,4.9,Intermediate,1.2M,1200000.0,2,3
+Operating Profit Margin,University of Illinois,Specialization,4.8,Intermediate,1.1M,1100000.0,2,3
+EBITDA Margin,University of Illinois,Specialization,4.7,Intermediate,1.0M,1000000.0,2,2
+EBIT Margin,University of Illinois,Specialization,4.6,Intermediate,950K,950000.0,2,2
+Pre-Tax Margin,University of Illinois,Specialization,4.5,Intermediate,900K,900000.0,2,2
+After-Tax Margin,University of Illinois,Specialization,4.4,Intermediate,850K,850000.0,2,2
+Earnings Before Interest and Taxes,University of Illinois,Specialization,4.8,Intermediate,1.1M,1100000.0,2,3
+Earnings Before Interest Taxes Depreciation and Amortization,University of Illinois,Specialization,4.9,Intermediate,1.2M,1200000.0,2,3
+Adjusted EBITDA,University of Illinois,Specialization,4.7,Intermediate,1.0M,1000000.0,2,2
+Normalized EBITDA,University of Illinois,Specialization,4.6,Intermediate,950K,950000.0,2,2
+Pro Forma EBITDA,University of Illinois,Specialization,4.5,Intermediate,900K,900000.0,2,2
+EBITDA Multiple,University of Illinois,Specialization,4.7,Intermediate,1.0M,1000000.0,2,2
+Enterprise Value Multiple,University of Illinois,Specialization,4.6,Intermediate,950K,950000.0,2,2
+Valuation Multiple,University of Illinois,Specialization,4.8,Intermediate,1.1M,1100000.0,2,3
+Comparable Company Analysis,University of Illinois,Specialization,4.9,Advanced,1.2M,1200000.0,3,1
+Precedent Transaction Analysis,University of Illinois,Specialization,4.8,Advanced,1.1M,1100000.0,3,1
+Discounted Cash Flow,University of Illinois,Specialization,4.9,Advanced,1.2M,1200000.0,3,1
+DCF Valuation,University of Illinois,Specialization,4.8,Advanced,1.1M,1100000.0,3,1
+Net Present Value,University of Illinois,Specialization,4.9,Intermediate,1.2M,1200000.0,2,3
+Internal Rate of Return,University of Illinois,Specialization,4.8,Intermediate,1.1M,1100000.0,2,3
+Payback Period,University of Illinois,Specialization,4.7,Intermediate,1.0M,1000000.0,2,2
+Profitability Index,University of Illinois,Specialization,4.6,Intermediate,950K,950000.0,2,2
+Modified Internal Rate of Return,University of Illinois,Specialization,4.5,Advanced,900K,900000.0,3,1
+Capital Budgeting,University of Illinois,Specialization,4.8,Intermediate,1.1M,1100000.0,2,3
+Project Evaluation,University of Illinois,Specialization,4.7,Intermediate,1.0M,1000000.0,2,2
+Investment Appraisal,University of Illinois,Specialization,4.8,Intermediate,1.1M,1100000.0,2,3
+Feasibility Analysis,University of Illinois,Specialization,4.7,Intermediate,1.0M,1000000.0,2,2
+Sensitivity Analysis,University of Illinois,Specialization,4.8,Intermediate,1.1M,1100000.0,2,3
+Scenario Analysis,University of Illinois,Specialization,4.7,Intermediate,1.0M,1000000.0,2,2
+Monte Carlo Simulation,Columbia University,Specialization,4.8,Advanced,1.0M,1000000.0,3,1
+Risk Analysis,University of Pennsylvania,Specialization,4.9,Intermediate,1.2M,1200000.0,2,3
+Uncertainty Analysis,University of Illinois,Specialization,4.7,Intermediate,1.0M,1000000.0,2,2
+Decision Trees,University of Illinois,Specialization,4.6,Intermediate,950K,950000.0,2,2
+Real Options,University of Illinois,Specialization,4.5,Advanced,900K,900000.0,3,1
+Option Pricing,Columbia University,Specialization,4.7,Advanced,950K,950000.0,3,1
+Black-Scholes Model,Columbia University,Specialization,4.6,Advanced,900K,900000.0,3,1
+Binomial Model,Columbia University,Specialization,4.5,Advanced,850K,850000.0,3,1
+Monte Carlo Option Pricing,Columbia University,Specialization,4.7,Advanced,950K,950000.0,3,1
+Derivatives,Columbia University,Specialization,4.8,Advanced,1.0M,1000000.0,3,1
+Futures,Columbia University,Specialization,4.7,Intermediate,950K,950000.0,2,2
+Forwards,Columbia University,Specialization,4.6,Intermediate,900K,900000.0,2,2
+Swaps,Columbia University,Specialization,4.7,Advanced,950K,950000.0,3,1
+Options,Columbia University,Specialization,4.8,Advanced,1.0M,1000000.0,3,1
+Hedging,Columbia University,Specialization,4.7,Intermediate,950K,950000.0,2,2
+Speculation,Columbia University,Specialization,4.6,Advanced,900K,900000.0,3,1
+Arbitrage,Columbia University,Specialization,4.8,Advanced,1.0M,1000000.0,3,1
+Market Making,Columbia University,Specialization,4.7,Advanced,950K,950000.0,3,1
+Trading Strategies,Columbia University,Specialization,4.8,Advanced,1.0M,1000000.0,3,1
+Algorithmic Trading,Columbia University,Specialization,4.9,Advanced,1.1M,1100000.0,3,1
+High-Frequency Trading,Columbia University,Specialization,4.7,Advanced,950K,950000.0,3,1
+Quantitative Trading,Columbia University,Specialization,4.8,Advanced,1.0M,1000000.0,3,1
+Systematic Trading,Columbia University,Specialization,4.7,Advanced,950K,950000.0,3,1
+Discretionary Trading,Columbia University,Specialization,4.6,Intermediate,900K,900000.0,2,2
+Technical Analysis,Columbia University,Specialization,4.7,Intermediate,950K,950000.0,2,2
+Fundamental Analysis,Columbia University,Specialization,4.8,Intermediate,1.0M,1000000.0,2,2
+Chart Patterns,Columbia University,Specialization,4.6,Intermediate,900K,900000.0,2,2
+Indicators,Columbia University,Specialization,4.7,Intermediate,950K,950000.0,2,2
+Moving Averages,Columbia University,Specialization,4.8,Intermediate,1.0M,1000000.0,2,2
+Relative Strength Index,Columbia University,Specialization,4.7,Intermediate,950K,950000.0,2,2
+MACD,Columbia University,Specialization,4.8,Intermediate,1.0M,1000000.0,2,2
+Bollinger Bands,Columbia University,Specialization,4.7,Intermediate,950K,950000.0,2,2
+Stochastic Oscillator,Columbia University,Specialization,4.6,Intermediate,900K,900000.0,2,2
+Fibonacci Retracements,Columbia University,Specialization,4.5,Intermediate,850K,850000.0,2,2
+Support and Resistance,Columbia University,Specialization,4.7,Intermediate,950K,950000.0,2,2
+Trend Analysis,Columbia University,Specialization,4.8,Intermediate,1.0M,1000000.0,2,2
+Momentum,Columbia University,Specialization,4.7,Intermediate,950K,950000.0,2,2
+Volume Analysis,Columbia University,Specialization,4.8,Intermediate,1.0M,1000000.0,2,2
+Market Microstructure,Columbia University,Specialization,4.6,Advanced,900K,900000.0,3,1
+Order Flow,Columbia University,Specialization,4.5,Advanced,850K,850000.0,3,1
+Market Impact,Columbia University,Specialization,4.6,Advanced,900K,900000.0,3,1
+Execution Algorithms,Columbia University,Specialization,4.7,Advanced,950K,950000.0,3,1
+TWAP,Columbia University,Specialization,4.6,Intermediate,900K,900000.0,2,2
+VWAP,Columbia University,Specialization,4.8,Intermediate,1.0M,1000000.0,2,2
+Implementation Shortfall,Columbia University,Specialization,4.7,Advanced,950K,950000.0,3,1
+Transaction Costs,Columbia University,Specialization,4.8,Intermediate,1.0M,1000000.0,2,2
+Bid-Ask Spread,Columbia University,Specialization,4.7,Intermediate,950K,950000.0,2,2
+Slippage,Columbia University,Specialization,4.6,Intermediate,900K,900000.0,2,2
+Market Impact Cost,Columbia University,Specialization,4.7,Advanced,950K,950000.0,3,1
+Portfolio Optimization,University of Geneva,Specialization,4.9,Advanced,1.1M,1100000.0,3,1
+Modern Portfolio Theory,University of Geneva,Specialization,4.9,Advanced,1.2M,1200000.0,3,1
+Markowitz Model,University of Geneva,Specialization,4.8,Advanced,1.1M,1100000.0,3,1
+Efficient Frontier,University of Geneva,Specialization,4.9,Advanced,1.2M,1200000.0,3,1
+Capital Asset Pricing Model,University of Geneva,Specialization,4.9,Advanced,1.2M,1200000.0,3,1
+CAPM,University of Geneva,Specialization,4.9,Advanced,1.2M,1200000.0,3,1
+Beta,University of Geneva,Specialization,4.8,Intermediate,1.1M,1100000.0,2,3
+Alpha,University of Geneva,Specialization,4.9,Intermediate,1.2M,1200000.0,2,3
+Sharpe Ratio,University of Geneva,Specialization,4.9,Intermediate,1.2M,1200000.0,2,3
+Sortino Ratio,University of Geneva,Specialization,4.7,Intermediate,1.0M,1000000.0,2,2
+Treynor Ratio,University of Geneva,Specialization,4.6,Intermediate,950K,950000.0,2,2
+Information Ratio,University of Geneva,Specialization,4.7,Intermediate,1.0M,1000000.0,2,2
+Jensen Alpha,University of Geneva,Specialization,4.6,Advanced,950K,950000.0,3,1
+Tracking Error,University of Geneva,Specialization,4.7,Intermediate,1.0M,1000000.0,2,2
+Active Return,University of Geneva,Specialization,4.6,Intermediate,950K,950000.0,2,2
+Excess Return,University of Geneva,Specialization,4.7,Intermediate,1.0M,1000000.0,2,2
+Risk-Adjusted Return,University of Geneva,Specialization,4.8,Intermediate,1.1M,1100000.0,2,3
+Total Return,University of Geneva,Specialization,4.9,Intermediate,1.2M,1200000.0,2,3
+Absolute Return,University of Geneva,Specialization,4.7,Intermediate,1.0M,1000000.0,2,2
+Relative Return,University of Geneva,Specialization,4.8,Intermediate,1.1M,1100000.0,2,3
+Benchmark Return,University of Geneva,Specialization,4.7,Intermediate,1.0M,1000000.0,2,2
+Index Return,University of Geneva,Specialization,4.8,Intermediate,1.1M,1100000.0,2,3
+Market Return,University of Geneva,Specialization,4.9,Intermediate,1.2M,1200000.0,2,3
+Risk-Free Rate,University of Geneva,Specialization,4.8,Intermediate,1.1M,1100000.0,2,3
+Risk Premium,University of Geneva,Specialization,4.9,Intermediate,1.2M,1200000.0,2,3
+Market Risk Premium,University of Geneva,Specialization,4.9,Intermediate,1.2M,1200000.0,2,3
+Equity Risk Premium,University of Geneva,Specialization,4.8,Intermediate,1.1M,1100000.0,2,3
+Default Risk Premium,University of Geneva,Specialization,4.7,Intermediate,1.0M,1000000.0,2,2
+Liquidity Risk Premium,University of Geneva,Specialization,4.6,Intermediate,950K,950000.0,2,2
+Maturity Risk Premium,University of Geneva,Specialization,4.5,Intermediate,900K,900000.0,2,2
+Inflation Risk Premium,University of Geneva,Specialization,4.6,Intermediate,950K,950000.0,2,2
+Real Return,University of Geneva,Specialization,4.7,Intermediate,1.0M,1000000.0,2,2
+Nominal Return,University of Geneva,Specialization,4.8,Intermediate,1.1M,1100000.0,2,3
+Inflation-Adjusted Return,University of Geneva,Specialization,4.7,Intermediate,1.0M,1000000.0,2,2
+Purchasing Power,University of Geneva,Specialization,4.6,Intermediate,950K,950000.0,2,2
+Time Value of Money,University of Geneva,Specialization,4.9,Intermediate,1.2M,1200000.0,2,3
+Present Value,University of Geneva,Specialization,4.9,Intermediate,1.2M,1200000.0,2,3
+Future Value,University of Geneva,Specialization,4.9,Intermediate,1.2M,1200000.0,2,3
+Annuity,University of Geneva,Specialization,4.8,Intermediate,1.1M,1100000.0,2,3
+Ordinary Annuity,University of Geneva,Specialization,4.7,Intermediate,1.0M,1000000.0,2,2
+Annuity Due,University of Geneva,Specialization,4.6,Intermediate,950K,950000.0,2,2
+Perpetuity,University of Geneva,Specialization,4.7,Intermediate,1.0M,1000000.0,2,2
+Growing Perpetuity,University of Geneva,Specialization,4.6,Advanced,950K,950000.0,3,1
+Growing Annuity,University of Geneva,Specialization,4.5,Advanced,900K,900000.0,3,1
+Compounding,University of Geneva,Specialization,4.8,Intermediate,1.1M,1100000.0,2,3
+Discounting,University of Geneva,Specialization,4.9,Intermediate,1.2M,1200000.0,2,3
+Effective Annual Rate,University of Geneva,Specialization,4.8,Intermediate,1.1M,1100000.0,2,3
+Annual Percentage Rate,University of Geneva,Specialization,4.7,Intermediate,1.0M,1000000.0,2,2
+Continuous Compounding,University of Geneva,Specialization,4.6,Advanced,950K,950000.0,3,1
+Bond Valuation,University of Geneva,Specialization,4.9,Intermediate,1.2M,1200000.0,2,3
+Bond Pricing,University of Geneva,Specialization,4.8,Intermediate,1.1M,1100000.0,2,3
+Yield to Maturity,University of Geneva,Specialization,4.9,Intermediate,1.2M,1200000.0,2,3
+Current Yield,University of Geneva,Specialization,4.8,Intermediate,1.1M,1100000.0,2,3
+Yield to Call,University of Geneva,Specialization,4.7,Intermediate,1.0M,1000000.0,2,2
+Yield to Worst,University of Geneva,Specialization,4.6,Intermediate,950K,950000.0,2,2
+Duration,University of Geneva,Specialization,4.8,Intermediate,1.1M,1100000.0,2,3
+Modified Duration,University of Geneva,Specialization,4.7,Intermediate,1.0M,1000000.0,2,2
+Macaulay Duration,University of Geneva,Specialization,4.8,Advanced,1.1M,1100000.0,3,1
+Effective Duration,University of Geneva,Specialization,4.7,Advanced,1.0M,1000000.0,3,1
+Convexity,University of Geneva,Specialization,4.8,Advanced,1.1M,1100000.0,3,1
+Price Sensitivity,University of Geneva,Specialization,4.7,Intermediate,1.0M,1000000.0,2,2
+Interest Rate Risk,University of Geneva,Specialization,4.8,Intermediate,1.1M,1100000.0,2,3
+Credit Risk,University of Geneva,Specialization,4.9,Intermediate,1.2M,1200000.0,2,3
+Default Risk,University of Geneva,Specialization,4.8,Intermediate,1.1M,1100000.0,2,3
+Credit Rating,University of Geneva,Specialization,4.9,Intermediate,1.2M,1200000.0,2,3
+Credit Spread,University of Geneva,Specialization,4.8,Intermediate,1.1M,1100000.0,2,3
+Credit Default Swap,University of Geneva,Specialization,4.7,Advanced,950K,950000.0,3,1
+CDS,University of Geneva,Specialization,4.6,Advanced,900K,900000.0,3,1
+Credit Enhancement,University of Geneva,Specialization,4.5,Intermediate,850K,850000.0,2,2
+Collateral,University of Geneva,Specialization,4.6,Intermediate,900K,900000.0,2,2
+Securitization,University of Geneva,Specialization,4.7,Advanced,950K,950000.0,3,1
+Asset-Backed Securities,University of Geneva,Specialization,4.6,Advanced,900K,900000.0,3,1
+Mortgage-Backed Securities,University of Geneva,Specialization,4.7,Advanced,950K,950000.0,3,1
+Collateralized Debt Obligations,University of Geneva,Specialization,4.5,Advanced,850K,850000.0,3,1
+CDO,University of Geneva,Specialization,4.4,Advanced,800K,800000.0,3,1
+Structured Products,University of Geneva,Specialization,4.6,Advanced,900K,900000.0,3,1
+Credit Derivatives,University of Geneva,Specialization,4.7,Advanced,950K,950000.0,3,1
+Credit-Linked Notes,University of Geneva,Specialization,4.5,Advanced,850K,850000.0,3,1
+Total Return Swaps,University of Geneva,Specialization,4.4,Advanced,800K,800000.0,3,1
+Equity Swaps,University of Geneva,Specialization,4.5,Advanced,850K,850000.0,3,1
+Interest Rate Swaps,University of Geneva,Specialization,4.7,Advanced,950K,950000.0,3,1
+Currency Swaps,University of Geneva,Specialization,4.6,Advanced,900K,900000.0,3,1
+Cross-Currency Swaps,University of Geneva,Specialization,4.5,Advanced,850K,850000.0,3,1
+Basis Swaps,University of Geneva,Specialization,4.4,Advanced,800K,800000.0,3,1
+Asset Swaps,University of Geneva,Specialization,4.5,Advanced,850K,850000.0,3,1
+Total Return Swaps,University of Geneva,Specialization,4.6,Advanced,900K,900000.0,3,1
+Credit Default Swaps,University of Geneva,Specialization,4.7,Advanced,950K,950000.0,3,1
+Commodity Swaps,University of Geneva,Specialization,4.5,Intermediate,850K,850000.0,2,2
+Energy Swaps,University of Geneva,Specialization,4.4,Intermediate,800K,800000.0,2,2
+Weather Derivatives,University of Geneva,Specialization,4.3,Advanced,750K,750000.0,3,1
+Catastrophe Bonds,University of Geneva,Specialization,4.2,Advanced,700K,700000.0,3,1
+Insurance-Linked Securities,University of Geneva,Specialization,4.3,Advanced,750K,750000.0,3,1
+Alternative Risk Transfer,University of Geneva,Specialization,4.4,Advanced,800K,800000.0,3,1
+Reinsurance,University of Geneva,Specialization,4.5,Intermediate,850K,850000.0,2,2
+Actuarial Science,University of Geneva,Specialization,4.6,Advanced,900K,900000.0,3,1
+Life Insurance,University of Geneva,Specialization,4.5,Intermediate,850K,850000.0,2,2
+Health Insurance,University of Minnesota,Specialization,4.6,Intermediate,900K,900000.0,2,2
+Property and Casualty Insurance,University of Geneva,Specialization,4.5,Intermediate,850K,850000.0,2,2
+Underwriting,University of Geneva,Specialization,4.6,Intermediate,900K,900000.0,2,2
+Claims Management,University of Geneva,Specialization,4.5,Intermediate,850K,850000.0,2,2
+Loss Reserving,University of Geneva,Specialization,4.4,Advanced,800K,800000.0,3,1
+Pricing,University of Geneva,Specialization,4.6,Intermediate,900K,900000.0,2,2
+Risk Pricing,University of Geneva,Specialization,4.7,Intermediate,950K,950000.0,2,2
+Premium Calculation,University of Geneva,Specialization,4.6,Intermediate,900K,900000.0,2,2
+Actuarial Modeling,University of Geneva,Specialization,4.7,Advanced,950K,950000.0,3,1
+Mortality Modeling,University of Geneva,Specialization,4.6,Advanced,900K,900000.0,3,1
+Morbidity Modeling,University of Geneva,Specialization,4.5,Advanced,850K,850000.0,3,1
+Longevity Risk,University of Geneva,Specialization,4.4,Advanced,800K,800000.0,3,1
+Longevity Swaps,University of Geneva,Specialization,4.3,Advanced,750K,750000.0,3,1
+Pension Risk Transfer,University of Minnesota,Specialization,4.5,Intermediate,850K,850000.0,2,2
+Annuity Products,University of Geneva,Specialization,4.6,Intermediate,900K,900000.0,2,2
+Variable Annuities,University of Geneva,Specialization,4.5,Intermediate,850K,850000.0,2,2
+Fixed Annuities,University of Geneva,Specialization,4.4,Intermediate,800K,800000.0,2,2
+Indexed Annuities,University of Geneva,Specialization,4.5,Intermediate,850K,850000.0,2,2
+Immediate Annuities,University of Geneva,Specialization,4.4,Intermediate,800K,800000.0,2,2
+Deferred Annuities,University of Geneva,Specialization,4.5,Intermediate,850K,850000.0,2,2
+Life Annuities,University of Geneva,Specialization,4.6,Intermediate,900K,900000.0,2,2
+Term Certain Annuities,University of Geneva,Specialization,4.5,Intermediate,850K,850000.0,2,2
+Life Insurance Products,University of Geneva,Specialization,4.7,Intermediate,900K,900000.0,2,2
+Term Life Insurance,University of Geneva,Specialization,4.6,Intermediate,850K,850000.0,2,2
+Whole Life Insurance,University of Geneva,Specialization,4.7,Intermediate,900K,900000.0,2,2
+Universal Life Insurance,University of Geneva,Specialization,4.6,Intermediate,850K,850000.0,2,2
+Variable Life Insurance,University of Geneva,Specialization,4.5,Intermediate,800K,800000.0,2,2
+Indexed Universal Life,University of Geneva,Specialization,4.4,Intermediate,750K,750000.0,2,2
+Group Life Insurance,University of Geneva,Specialization,4.5,Intermediate,800K,800000.0,2,2
+Key Person Insurance,University of Geneva,Specialization,4.4,Intermediate,750K,750000.0,2,2
+Buy-Sell Insurance,University of Geneva,Specialization,4.3,Intermediate,700K,700000.0,2,2
+Estate Planning,University of Geneva,Specialization,4.5,Intermediate,800K,800000.0,2,2
+Trust Planning,University of Geneva,Specialization,4.4,Intermediate,750K,750000.0,2,2
+Will Planning,University of Geneva,Specialization,4.3,Intermediate,700K,700000.0,2,2
+Tax Planning,University of Illinois,Specialization,4.6,Intermediate,850K,850000.0,2,2
+Estate Tax Planning,University of Illinois,Specialization,4.5,Intermediate,800K,800000.0,2,2
+Gift Tax Planning,University of Illinois,Specialization,4.4,Intermediate,750K,750000.0,2,2
+Generation-Skipping Tax,University of Illinois,Specialization,4.3,Advanced,700K,700000.0,3,1
+Charitable Giving,University of Illinois,Specialization,4.5,Intermediate,800K,800000.0,2,2
+Charitable Trusts,University of Illinois,Specialization,4.4,Intermediate,750K,750000.0,2,2
+Charitable Remainder Trusts,University of Illinois,Specialization,4.3,Advanced,700K,700000.0,3,1
+Charitable Lead Trusts,University of Illinois,Specialization,4.2,Advanced,650K,650000.0,3,1
+Family Limited Partnerships,University of Illinois,Specialization,4.3,Advanced,700K,700000.0,3,1
+Limited Liability Companies,University of Illinois,Specialization,4.4,Intermediate,750K,750000.0,2,2
+LLC,University of Illinois,Specialization,4.5,Intermediate,800K,800000.0,2,2
+S Corporations,University of Illinois,Specialization,4.4,Intermediate,750K,750000.0,2,2
+C Corporations,University of Illinois,Specialization,4.5,Intermediate,800K,800000.0,2,2
+Partnerships,University of Illinois,Specialization,4.4,Intermediate,750K,750000.0,2,2
+Limited Partnerships,University of Illinois,Specialization,4.3,Intermediate,700K,700000.0,2,2
+General Partnerships,University of Illinois,Specialization,4.2,Intermediate,650K,650000.0,2,2
+Sole Proprietorships,University of Illinois,Specialization,4.3,Intermediate,700K,700000.0,2,2
+Business Formation,University of Illinois,Specialization,4.4,Intermediate,750K,750000.0,2,2
+Entity Selection,University of Illinois,Specialization,4.5,Intermediate,800K,800000.0,2,2
+Tax Entity Selection,University of Illinois,Specialization,4.6,Intermediate,850K,850000.0,2,2
+Pass-Through Entities,University of Illinois,Specialization,4.5,Intermediate,800K,800000.0,2,2
+Double Taxation,University of Illinois,Specialization,4.4,Intermediate,750K,750000.0,2,2
+Tax Efficiency,University of Illinois,Specialization,4.5,Intermediate,800K,800000.0,2,2
+Tax Optimization,University of Illinois,Specialization,4.6,Intermediate,850K,850000.0,2,2
+Tax Minimization,University of Illinois,Specialization,4.5,Intermediate,800K,800000.0,2,2
+Tax Avoidance,University of Illinois,Specialization,4.4,Intermediate,750K,750000.0,2,2
+Tax Evasion,University of Illinois,Specialization,4.3,Advanced,700K,700000.0,3,1
+Tax Compliance,University of Illinois,Specialization,4.7,Intermediate,900K,900000.0,2,2
+Tax Preparation,University of Illinois,Specialization,4.6,Intermediate,850K,850000.0,2,2
+Tax Filing,University of Illinois,Specialization,4.7,Intermediate,900K,900000.0,2,2
+Individual Tax Returns,University of Illinois,Specialization,4.8,Intermediate,950K,950000.0,2,2
+Form 1040,University of Illinois,Specialization,4.7,Intermediate,900K,900000.0,2,2
+Business Tax Returns,University of Illinois,Specialization,4.8,Intermediate,950K,950000.0,2,2
+Form 1120,University of Illinois,Specialization,4.7,Intermediate,900K,900000.0,2,2
+Form 1120S,University of Illinois,Specialization,4.6,Intermediate,850K,850000.0,2,2
+Form 1065,University of Illinois,Specialization,4.5,Intermediate,800K,800000.0,2,2
+Form 1041,University of Illinois,Specialization,4.4,Intermediate,750K,750000.0,2,2
+Form 990,University of Illinois,Specialization,4.3,Intermediate,700K,700000.0,2,2
+Tax Extensions,University of Illinois,Specialization,4.4,Intermediate,750K,750000.0,2,2
+Amended Returns,University of Illinois,Specialization,4.5,Intermediate,800K,800000.0,2,2
+Tax Refunds,University of Illinois,Specialization,4.6,Intermediate,850K,850000.0,2,2
+Tax Payments,University of Illinois,Specialization,4.7,Intermediate,900K,900000.0,2,2
+Estimated Tax Payments,University of Illinois,Specialization,4.6,Intermediate,850K,850000.0,2,2
+Quarterly Payments,University of Illinois,Specialization,4.5,Intermediate,800K,800000.0,2,2
+Withholding,University of Illinois,Specialization,4.6,Intermediate,850K,850000.0,2,2
+Payroll Taxes,University of Illinois,Specialization,4.7,Intermediate,900K,900000.0,2,2
+Social Security Tax,University of Illinois,Specialization,4.8,Intermediate,950K,950000.0,2,2
+Medicare Tax,University of Illinois,Specialization,4.7,Intermediate,900K,900000.0,2,2
+Federal Unemployment Tax,University of Illinois,Specialization,4.6,Intermediate,850K,850000.0,2,2
+FUTA,University of Illinois,Specialization,4.5,Intermediate,800K,800000.0,2,2
+State Unemployment Tax,University of Illinois,Specialization,4.4,Intermediate,750K,750000.0,2,2
+SUTA,University of Illinois,Specialization,4.3,Intermediate,700K,700000.0,2,2
+Workers Compensation Insurance,University of Minnesota,Specialization,4.5,Intermediate,800K,800000.0,2,2
+State Disability Insurance,University of Minnesota,Specialization,4.4,Intermediate,750K,750000.0,2,2
+SDI,University of Minnesota,Specialization,4.3,Intermediate,700K,700000.0,2,2
+Local Taxes,University of Illinois,Specialization,4.4,Intermediate,750K,750000.0,2,2
+State Taxes,University of Illinois,Specialization,4.6,Intermediate,850K,850000.0,2,2
+Federal Taxes,University of Illinois,Specialization,4.8,Intermediate,950K,950000.0,2,2
+Income Tax,University of Illinois,Specialization,4.9,Intermediate,1.0M,1000000.0,2,2
+Corporate Income Tax,University of Illinois,Specialization,4.8,Intermediate,950K,950000.0,2,2
+Individual Income Tax,University of Illinois,Specialization,4.9,Intermediate,1.0M,1000000.0,2,2
+Capital Gains Tax,University of Illinois,Specialization,4.8,Intermediate,950K,950000.0,2,2
+Short-Term Capital Gains,University of Illinois,Specialization,4.7,Intermediate,900K,900000.0,2,2
+Long-Term Capital Gains,University of Illinois,Specialization,4.8,Intermediate,950K,950000.0,2,2
+Qualified Dividends,University of Illinois,Specialization,4.7,Intermediate,900K,900000.0,2,2
+Ordinary Dividends,University of Illinois,Specialization,4.6,Intermediate,850K,850000.0,2,2
+Interest Income,University of Illinois,Specialization,4.7,Intermediate,900K,900000.0,2,2
+Taxable Interest,University of Illinois,Specialization,4.6,Intermediate,850K,850000.0,2,2
+Tax-Exempt Interest,University of Illinois,Specialization,4.5,Intermediate,800K,800000.0,2,2
+Municipal Bonds,University of Illinois,Specialization,4.6,Intermediate,850K,850000.0,2,2
+Tax-Exempt Bonds,University of Illinois,Specialization,4.5,Intermediate,800K,800000.0,2,2
+Alternative Minimum Tax,University of Illinois,Specialization,4.6,Advanced,850K,850000.0,3,1
+AMT,University of Illinois,Specialization,4.5,Advanced,800K,800000.0,3,1
+Self-Employment Tax,University of Illinois,Specialization,4.7,Intermediate,900K,900000.0,2,2
+SE Tax,University of Illinois,Specialization,4.6,Intermediate,850K,850000.0,2,2
+Net Investment Income Tax,University of Illinois,Specialization,4.5,Advanced,800K,800000.0,3,1
+NIIT,University of Illinois,Specialization,4.4,Advanced,750K,750000.0,3,1
+Medicare Surtax,University of Illinois,Specialization,4.3,Advanced,700K,700000.0,3,1
+Additional Medicare Tax,University of Illinois,Specialization,4.4,Advanced,750K,750000.0,3,1
+Estate Tax,University of Illinois,Specialization,4.6,Advanced,850K,850000.0,3,1
+Gift Tax,University of Illinois,Specialization,4.5,Advanced,800K,800000.0,3,1
+Generation-Skipping Transfer Tax,University of Illinois,Specialization,4.4,Advanced,750K,750000.0,3,1
+GSTT,University of Illinois,Specialization,4.3,Advanced,700K,700000.0,3,1
+Sales Tax,University of Illinois,Specialization,4.7,Intermediate,900K,900000.0,2,2
+Use Tax,University of Illinois,Specialization,4.6,Intermediate,850K,850000.0,2,2
+Property Tax,University of Illinois,Specialization,4.7,Intermediate,900K,900000.0,2,2
+Real Estate Tax,University of Illinois,Specialization,4.8,Intermediate,950K,950000.0,2,2
+Personal Property Tax,University of Illinois,Specialization,4.6,Intermediate,850K,850000.0,2,2
+Ad Valorem Tax,University of Illinois,Specialization,4.5,Intermediate,800K,800000.0,2,2
+Excise Tax,University of Illinois,Specialization,4.6,Intermediate,850K,850000.0,2,2
+Sin Tax,University of Illinois,Specialization,4.4,Intermediate,750K,750000.0,2,2
+Luxury Tax,University of Illinois,Specialization,4.3,Intermediate,700K,700000.0,2,2
+Gas Tax,University of Illinois,Specialization,4.4,Intermediate,750K,750000.0,2,2
+Tobacco Tax,University of Illinois,Specialization,4.3,Intermediate,700K,700000.0,2,2
+Alcohol Tax,University of Illinois,Specialization,4.4,Intermediate,750K,750000.0,2,2
+Telecommunications Tax,University of Illinois,Specialization,4.3,Intermediate,700K,700000.0,2,2
+Utility Tax,University of Illinois,Specialization,4.4,Intermediate,750K,750000.0,2,2
+Hotel Tax,University of Illinois,Specialization,4.3,Intermediate,700K,700000.0,2,2
+Occupancy Tax,University of Illinois,Specialization,4.2,Intermediate,650K,650000.0,2,2
+Tourism Tax,University of Illinois,Specialization,4.3,Intermediate,700K,700000.0,2,2
+Entertainment Tax,University of Illinois,Specialization,4.2,Intermediate,650K,650000.0,2,2
+Amusement Tax,University of Illinois,Specialization,4.1,Intermediate,600K,600000.0,2,0
+Admission Tax,University of Illinois,Specialization,4.0,Intermediate,550K,550000.0,2,0
+Value-Added Tax,University of Illinois,Specialization,4.2,Intermediate,650K,650000.0,2,2
+VAT,University of Illinois,Specialization,4.3,Intermediate,700K,700000.0,2,2
+Goods and Services Tax,University of Illinois,Specialization,4.4,Intermediate,750K,750000.0,2,2
+GST,University of Illinois,Specialization,4.5,Intermediate,800K,800000.0,2,2
+Consumption Tax,University of Illinois,Specialization,4.4,Intermediate,750K,750000.0,2,2
+Transaction Tax,University of Illinois,Specialization,4.3,Intermediate,700K,700000.0,2,2
+Financial Transaction Tax,University of Illinois,Specialization,4.2,Advanced,650K,650000.0,3,1
+FTT,University of Illinois,Specialization,4.1,Advanced,600K,600000.0,3,1
+Securities Transaction Tax,University of Illinois,Specialization,4.2,Advanced,650K,650000.0,3,1
+STT,University of Illinois,Specialization,4.1,Advanced,600K,600000.0,3,1
+Stamp Tax,University of Illinois,Specialization,4.0,Intermediate,550K,550000.0,2,0
+Transfer Tax,University of Illinois,Specialization,4.1,Intermediate,600K,600000.0,2,0
+Real Estate Transfer Tax,University of Illinois,Specialization,4.2,Intermediate,650K,650000.0,2,2
+Stock Transfer Tax,University of Illinois,Specialization,4.1,Advanced,600K,600000.0,3,1
+Inheritance Tax,University of Illinois,Specialization,4.3,Advanced,700K,700000.0,3,1
+Wealth Tax,University of Illinois,Specialization,4.2,Advanced,650K,650000.0,3,1
+Net Worth Tax,University of Illinois,Specialization,4.1,Advanced,600K,600000.0,3,1
+Capital Tax,University of Illinois,Specialization,4.2,Advanced,650K,650000.0,3,1
+Corporate Tax,University of Illinois,Specialization,4.8,Intermediate,950K,950000.0,2,2
+Business Tax,University of Illinois,Specialization,4.7,Intermediate,900K,900000.0,2,2
+Franchise Tax,University of Illinois,Specialization,4.6,Intermediate,850K,850000.0,2,2
+Gross Receipts Tax,University of Illinois,Specialization,4.5,Intermediate,800K,800000.0,2,2
+GRT,University of Illinois,Specialization,4.4,Intermediate,750K,750000.0,2,2
+Business License Tax,University of Illinois,Specialization,4.3,Intermediate,700K,700000.0,2,2
+Occupational Tax,University of Illinois,Specialization,4.2,Intermediate,650K,650000.0,2,2
+Professional Tax,University of Illinois,Specialization,4.3,Intermediate,700K,700000.0,2,2
+Privilege Tax,University of Illinois,Specialization,4.2,Intermediate,650K,650000.0,2,2
+Business Privilege Tax,University of Illinois,Specialization,4.3,Intermediate,700K,700000.0,2,2
+Merchant Tax,University of Illinois,Specialization,4.2,Intermediate,650K,650000.0,2,2
+Vendor Tax,University of Illinois,Specialization,4.1,Intermediate,600K,600000.0,2,0
+Wholesale Tax,University of Illinois,Specialization,4.0,Intermediate,550K,550000.0,2,0
+Retail Tax,University of Illinois,Specialization,4.1,Intermediate,600K,600000.0,2,0
+Manufacturing Tax,University of Illinois,Specialization,4.0,Intermediate,550K,550000.0,2,0
+Production Tax,University of Illinois,Specialization,4.1,Intermediate,600K,600000.0,2,0
+Extraction Tax,University of Illinois,Specialization,4.0,Intermediate,550K,550000.0,2,0
+Severance Tax,University of Illinois,Specialization,3.9,Intermediate,500K,500000.0,2,0
+Resource Tax,University of Illinois,Specialization,4.0,Intermediate,550K,550000.0,2,0
+Natural Resource Tax,University of Illinois,Specialization,3.9,Intermediate,500K,500000.0,2,0
+Mining Tax,University of Illinois,Specialization,3.8,Intermediate,450K,450000.0,2,0
+Oil and Gas Tax,University of Illinois,Specialization,3.9,Intermediate,500K,500000.0,2,0
+Energy Tax,University of Pennsylvania,Specialization,4.6,Intermediate,950K,950000.0,2,2
+Carbon Tax,University of Pennsylvania,Specialization,4.7,Intermediate,1.0M,1000000.0,2,2
+Emissions Tax,University of Pennsylvania,Specialization,4.6,Intermediate,950K,950000.0,2,2
+Pollution Tax,University of Pennsylvania,Specialization,4.5,Intermediate,900K,900000.0,2,2
+Environmental Tax,University of Pennsylvania,Specialization,4.6,Intermediate,950K,950000.0,2,2
+Green Tax,University of Pennsylvania,Specialization,4.5,Intermediate,900K,900000.0,2,2
+Eco Tax,University of Pennsylvania,Specialization,4.4,Intermediate,850K,850000.0,2,2
+Climate Tax,University of Pennsylvania,Specialization,4.5,Intermediate,900K,900000.0,2,2
+Global Warming Tax,University of Pennsylvania,Specialization,4.4,Intermediate,850K,850000.0,2,2
+温室气体税,University of Pennsylvania,Specialization,4.3,Intermediate,800K,800000.0,2,2
+Transportation Tax,University of Illinois,Specialization,4.4,Intermediate,850K,850000.0,2,2
+Vehicle Tax,University of Illinois,Specialization,4.5,Intermediate,900K,900000.0,2,2
+Motor Vehicle Tax,University of Illinois,Specialization,4.6,Intermediate,950K,950000.0,2,2
+Registration Tax,University of Illinois,Specialization,4.5,Intermediate,900K,900000.0,2,2
+Title Tax,University of Illinois,Specialization,4.4,Intermediate,850K,850000.0,2,2
+License Tax,University of Illinois,Specialization,4.5,Intermediate,900K,900000.0,2,2
+Driver License Tax,University of Illinois,Specialization,4.4,Intermediate,850K,850000.0,2,2
+Road Tax,University of Illinois,Specialization,4.3,Intermediate,800K,800000.0,2,2
+Highway Tax,University of Illinois,Specialization,4.4,Intermediate,850K,850000.0,2,2
+Fuel Tax,University of Illinois,Specialization,4.5,Intermediate,900K,900000.0,2,2
+Gasoline Tax,University of Illinois,Specialization,4.6,Intermediate,950K,950000.0,2,2
+Diesel Tax,University of Illinois,Specialization,4.5,Intermediate,900K,900000.0,2,2
+Aviation Fuel Tax,University of Illinois,Specialization,4.4,Intermediate,850K,850000.0,2,2
+Jet Fuel Tax,University of Illinois,Specialization,4.3,Intermediate,800K,800000.0,2,2
+Aviation Tax,University of Illinois,Specialization,4.4,Intermediate,850K,850000.0,2,2
+Airport Tax,University of Illinois,Specialization,4.3,Intermediate,800K,800000.0,2,2
+Departure Tax,University of Illinois,Specialization,4.2,Intermediate,750K,750000.0,2,2
+Arrival Tax,University of Illinois,Specialization,4.1,Intermediate,700K,700000.0,2,0
+Passenger Tax,University of Illinois,Specialization,4.2,Intermediate,750K,750000.0,2,2
+Cargo Tax,University of Illinois,Specialization,4.1,Intermediate,700K,700000.0,2,0
+Freight Tax,University of Illinois,Specialization,4.0,Intermediate,650K,650000.0,2,0
+Shipping Tax,University of Illinois,Specialization,4.1,Intermediate,700K,700000.0,2,0
+Maritime Tax,University of Illinois,Specialization,4.0,Intermediate,650K,650000.0,2,0
+Port Tax,University of Illinois,Specialization,3.9,Intermediate,600K,600000.0,2,0
+Harbor Tax,University of Illinois,Specialization,3.8,Intermediate,550K,550000.0,2,0
+Dock Tax,University of Illinois,Specialization,3.7,Intermediate,500K,500000.0,2,0
+Wharfage,University of Illinois,Specialization,3.6,Intermediate,450K,450000.0,2,0
+Railroad Tax,University of Illinois,Specialization,3.7,Intermediate,500K,500000.0,2,0
+Transit Tax,University of Illinois,Specialization,3.8,Intermediate,550K,550000.0,2,0
+Public Transportation Tax,University of Illinois,Specialization,3.9,Intermediate,600K,600000.0,2,0
+Mass Transit Tax,University of Illinois,Specialization,4.0,Intermediate,650K,650000.0,2,0
+Subway Tax,University of Illinois,Specialization,3.9,Intermediate,600K,600000.0,2,0
+Bus Tax,University of Illinois,Specialization,3.8,Intermediate,550K,550000.0,2,0
+Taxi Tax,University of Illinois,Specialization,3.7,Intermediate,500K,500000.0,2,0
+Rideshare Tax,University of Illinois,Specialization,3.8,Intermediate,550K,550000.0,2,0
+Uber Tax,University of Illinois,Specialization,3.7,Intermediate,500K,500000.0,2,0
+Lyft Tax,University of Illinois,Specialization,3.6,Intermediate,450K,450000.0,2,0
+Parking Tax,University of Illinois,Specialization,3.7,Intermediate,500K,500000.0,2,0
+Toll Tax,University of Illinois,Specialization,3.8,Intermediate,550K,550000.0,2,0
+Bridge Tax,University of Illinois,Specialization,3.7,Intermediate,500K,500000.0,2,0
+Tunnel Tax,University of Illinois,Specialization,3.6,Intermediate,450K,450000.0,2,0
+Congestion Tax,University of Illinois,Specialization,3.7,Intermediate,500K,500000.0,2,0
+Traffic Tax,University of Illinois,Specialization,3.6,Intermediate,450K,450000.0,2,0
+Vehicle Miles Traveled Tax,University of Illinois,Specialization,3.5,Intermediate,400K,400000.0,2,0
+VMT Tax,University of Illinois,Specialization,3.4,Intermediate,350K,350000.0,2,0
+Mileage Tax,University of Illinois,Specialization,3.5,Intermediate,400K,400000.0,2,0
+Distance Tax,University of Illinois,Specialization,3.4,Intermediate,350K,350000.0,2,0
+Road Usage Charge,University of Illinois,Specialization,3.5,Intermediate,400K,400000.0,2,0
+RUC,University of Illinois,Specialization,3.4,Intermediate,350K,350000.0,2,0
+Infrastructure Tax,University of Illinois,Specialization,3.6,Intermediate,450K,450000.0,2,0
+Public Works Tax,University of Illinois,Specialization,3.5,Intermediate,400K,400000.0,2,0
+Municipal Tax,University of Illinois,Specialization,3.7,Intermediate,500K,500000.0,2,0
+City Tax,University of Illinois,Specialization,3.8,Intermediate,550K,550000.0,2,0
+Local Tax,University of Illinois,Specialization,3.9,Intermediate,600K,600000.0,2,0
+County Tax,University of Illinois,Specialization,4.0,Intermediate,650K,650000.0,2,0
+Parish Tax,University of Illinois,Specialization,3.9,Intermediate,600K,600000.0,2,0
+Township Tax,University of Illinois,Specialization,3.8,Intermediate,550K,550000.0,2,0
+District Tax,University of Illinois,Specialization,3.7,Intermediate,500K,500000.0,2,0
+Special District Tax,University of Illinois,Specialization,3.6,Intermediate,450K,450000.0,2,0
+Assessment District Tax,University of Illinois,Specialization,3.5,Intermediate,400K,400000.0,2,0
+Business Improvement District Tax,University of Illinois,Specialization,3.6,Intermediate,450K,450000.0,2,0
+BID Tax,University of Illinois,Specialization,3.5,Intermediate,400K,400000.0,2,0
+Community Improvement District Tax,University of Illinois,Specialization,3.4,Intermediate,350K,350000.0,2,0
+CID Tax,University of Illinois,Specialization,3.3,Intermediate,300K,300000.0,2,0
+Transportation Development District Tax,University of Illinois,Specialization,3.4,Intermediate,350K,350000.0,2,0
+TDD Tax,University of Illinois,Specialization,3.3,Intermediate,300K,300000.0,2,0
+Tourism Development District Tax,University of Illinois,Specialization,3.2,Intermediate,250K,250000.0,2,0
+TDD Tax,University of Illinois,Specialization,3.1,Intermediate,200K,200000.0,2,0
+Entertainment District Tax,University of Illinois,Specialization,3.2,Intermediate,250K,250000.0,2,0
+EDD Tax,University of Illinois,Specialization,3.1,Intermediate,200K,200000.0,2,0
+Sports District Tax,University of Illinois,Specialization,3.0,Intermediate,150K,150000.0,2,0
+SDD Tax,University of Illinois,Specialization,2.9,Intermediate,100K,100000.0,2,0
+Stadium Tax,University of Illinois,Specialization,3.0,Intermediate,150K,150000.0,2,0
+Arena Tax,University of Illinois,Specialization,2.9,Intermediate,100K,100000.0,2,0
+Convention Center Tax,University of Illinois,Specialization,3.0,Intermediate,150K,150000.0,2,0
+Civic Center Tax,University of Illinois,Specialization,2.9,Intermediate,100K,100000.0,2,0
+Performing Arts Center Tax,University of Illinois,Specialization,2.8,Intermediate,50K,50000.0,2,0
+PAC Tax,University of Illinois,Specialization,2.7,Intermediate,25K,25000.0,2,0
+Museum Tax,University of Illinois,Specialization,2.8,Intermediate,50K,50000.0,2,0
+Library Tax,University of Illinois,Specialization,2.9,Intermediate,100K,100000.0,2,0
+Park Tax,University of Illinois,Specialization,3.0,Intermediate,150K,150000.0,2,0
+Recreation Tax,University of Illinois,Specialization,3.1,Intermediate,200K,200000.0,2,0
+Leisure Tax,University of Illinois,Specialization,3.2,Intermediate,250K,250000.0,2,0
+Entertainment Tax,University of Illinois,Specialization,3.3,Intermediate,300K,300000.0,2,0
+Amusement Tax,University of Illinois,Specialization,3.4,Intermediate,350K,350000.0,2,0
+Admission Tax,University of Illinois,Specialization,3.5,Intermediate,400K,400000.0,2,0
+Ticket Tax,University of Illinois,Specialization,3.6,Intermediate,450K,450000.0,2,0
+Event Tax,University of Illinois,Specialization,3.7,Intermediate,500K,500000.0,2,0
+Festival Tax,University of Illinois,Specialization,3.8,Intermediate,550K,550000.0,2,0
+Concert Tax,University of Illinois,Specialization,3.9,Intermediate,600K,600000.0,2,0
+Sports Event Tax,University of Illinois,Specialization,4.0,Intermediate,650K,650000.0,2,0
+Game Tax,University of Illinois,Specialization,4.1,Intermediate,700K,700000.0,2,0
+Match Tax,University of Illinois,Specialization,4.2,Intermediate,750K,750000.0,2,2
+Tournament Tax,University of Illinois,Specialization,4.3,Intermediate,800K,800000.0,2,2
+Championship Tax,University of Illinois,Specialization,4.4,Intermediate,850K,850000.0,2,2
+Super Bowl Tax,University of Illinois,Specialization,4.5,Intermediate,900K,900000.0,2,2
+World Series Tax,University of Illinois,Specialization,4.6,Intermediate,950K,950000.0,2,2
+NBA Finals Tax,University of Illinois,Specialization,4.7,Intermediate,1.0M,1000000.0,2,2
+Stanley Cup Tax,University of Illinois,Specialization,4.8,Intermediate,1.1M,1100000.0,2,3
+Olympics Tax,University of Illinois,Specialization,4.9,Intermediate,1.2M,1200000.0,2,3
+World Cup Tax,University of Illinois,Specialization,5.0,Intermediate,1.3M,1300000.0,2,3

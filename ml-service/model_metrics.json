@@ -1,0 +1,7 @@
+{
+  "optimal_k": 4,
+  "silhouette_score": 0.27874257324366175,
+  "intra_cluster_similarity": 0.684636534236725,
+  "n_samples": 949,
+  "n_features": 101
+}
